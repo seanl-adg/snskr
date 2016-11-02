@@ -16,3 +16,6 @@
 !====== Common plugins ======
 !------ tistory plugin ------
 ##.tt-plugin.tt-share-entry-with-sns
+/send_kakaotalk.
+!--- kakaostory ---
+||story.kakao.com/s/follow?$third-

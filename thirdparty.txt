@@ -1,2 +1,2 @@
 !--- kakaostory ---
-||story.kakao.com/s/follow?$third-party
+||story.kakao.com/s/follow?$third-
