@@ -1,11 +1,18 @@
+!====== Social media ======
 !------ cyworld.com ------
 ~cyworld.com##a[href^="http://csp.cyworld.com/bi/bi_recommend_pop.php?"]
 !
-!------ kakaostory ------
+!------ Kakaostory ------
 ~story.kakao.com###kakaostory-follow-button
 ~story.kakao.com###kakaostory-share-button
 ~story.kakao.com##a[href^="https://story.kakao.com/s/share?url="]
+###kakao-link-btn
 !
-!------ naver ------
+!------ Naver ------
 ~band.us##a[onclick^="window.open('http://www.band.us/plugin/share?"]
 ~blog.naver.com##a[onclick^="window.open('http://blog.naver.com/openapi/share?url="]
+~blog.naver.com##a[onclick^="javascript:window.open('http://share.naver.com/web/shareView.nhn?"]
+!
+!====== Common plugins ======
+!------ tistory plugin ------
+##.tt-plugin.tt-share-entry-with-sns
