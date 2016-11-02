@@ -1,4 +1,6 @@
-!====== Social media ======
+! Title: snskr
+! Experimental rules to be added to Adguard Social media filter.
+!!====== Social media ======
 !------ cyworld.com ------
 ~cyworld.com##a[href^="http://csp.cyworld.com/bi/bi_recommend_pop.php?"]
 !

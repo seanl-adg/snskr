@@ -1,0 +1,3 @@
+! Title: snskr
+! Experimental rules to be added to Adguard Social media filter.
+!
