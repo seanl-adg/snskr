@@ -1,0 +1,2 @@
+! cyworld.com
+~cyworld.com##a[href^="http://csp.cyworld.com/bi/bi_recommend_pop.php?"]
