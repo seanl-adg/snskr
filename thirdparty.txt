@@ -1,2 +1,3 @@
 !--- kakaostory ---
+||developers.kakao.com/sdk/js/kakao.min.js^$third-party,domain=~kakao.com
 ||story.kakao.com/s/follow?$third-party
