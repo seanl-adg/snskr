@@ -1,23 +1,38 @@
 ! Title: snskr
 ! Experimental rules to be added to Adguard Social media filter.
-!!====== Social media ======
+!!-------------------------------------------!
+!------------ By Social media --------------!
+!-------------------------------------------!
+!
 !------ cyworld.com ------
 ~cyworld.com##a[href^="http://csp.cyworld.com/bi/bi_recommend_pop.php?"]
 !
-!------ Kakaostory ------
+!------ Kakaostory -------
 ~story.kakao.com###kakaostory-follow-button
 ~story.kakao.com###kakaostory-share-button
 ~story.kakao.com##a[href^="https://story.kakao.com/s/share?url="]
 ###kakao-link-btn
 !
-!------ Naver ------
+!------ Naver ------------
+##a[href^="http://line.me/R/msg/text/?"]
 ~band.us##a[onclick^="window.open('http://www.band.us/plugin/share?"]
 ~blog.naver.com##a[onclick^="window.open('http://blog.naver.com/openapi/share?url="]
 ~blog.naver.com##a[onclick^="javascript:window.open('http://share.naver.com/web/shareView.nhn?"]
 !
-!====== Common plugins ======
-!------ tistory plugin ------
+!-------------------------------------------!
+!------------ By common plugins ------------!
+!-------------------------------------------!
+!
+!------ tistory ----------
 ##.tt-plugin.tt-share-entry-with-sns
+!-------------------------------------------!
+!------------ By common names --------------!
+!-------------------------------------------!
+!
+! 'Social network' is more commonly refered in Korea as 'sns'
+!
+##.sns_share_area
 /send_kakaotalk.
 !--- kakaostory ---
+||developers.kakao.com/sdk/js/kakao.min.js^$third-party,domain=~kakao.com
 ||story.kakao.com/s/follow?$third-party
