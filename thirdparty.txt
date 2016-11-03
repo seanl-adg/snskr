@@ -1,3 +1,9 @@
-!--- kakaostory ---
+!-------------------------------------------!
+!--------- third-party requests ------------!
+!-------------------------------------------!
+!
+! third-party request used to load social widgets
+!
+!------ Kakaostory -------
 ||developers.kakao.com/sdk/js/kakao.min.js^$third-party,domain=~kakao.com
 ||story.kakao.com/s/follow?$third-party

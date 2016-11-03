@@ -1,6 +1,7 @@
 ! Title: snskr
 ! Experimental rules to be added to Adguard Social media filter.
-!!-------------------------------------------!
+!
+!-------------------------------------------!
 !------------ By Social media --------------!
 !-------------------------------------------!
 !
@@ -32,7 +33,22 @@
 ! 'Social network' is more commonly refered in Korea as 'sns'
 !
 ##.sns_share_area
+!-------------------------------------------!
+!------------ generic_url ------------------!
+!-------------------------------------------!
+!
 /send_kakaotalk.
-!--- kakaostory ---
+!-------------------------------------------!
+!------------ specific_elemhide ------------!
+!-------------------------------------------!
+m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
+wikitree.co.kr##.v_sns
+!-------------------------------------------!
+!--------- third-party requests ------------!
+!-------------------------------------------!
+!
+! third-party request used to load social widgets
+!
+!------ Kakaostory -------
 ||developers.kakao.com/sdk/js/kakao.min.js^$third-party,domain=~kakao.com
 ||story.kakao.com/s/follow?$third-party

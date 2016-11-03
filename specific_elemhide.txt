@@ -1,0 +1,5 @@
+!-------------------------------------------!
+!------------ specific_elemhide ------------!
+!-------------------------------------------!
+m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
+wikitree.co.kr##.v_sns
