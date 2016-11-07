@@ -32,7 +32,10 @@
 !
 ! 'Social network' is more commonly refered in Korea as 'sns'
 !
+##.sns_facebook
+##.sns_kakao
 ##.sns_share_area
+##.sns_twit
 !-------------------------------------------!
 !------------ generic_url ------------------!
 !-------------------------------------------!
@@ -41,6 +44,7 @@
 !-------------------------------------------!
 !------------ specific_elemhide ------------!
 !-------------------------------------------!
+m.sportschosun.com##.sns1
 m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
 wikitree.co.kr##.v_sns
 !-------------------------------------------!
