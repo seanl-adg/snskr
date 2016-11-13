@@ -47,6 +47,7 @@
 m.sportschosun.com##.sns1
 m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
 wikitree.co.kr##.v_sns
+sedaily.com##.news_sns
 !-------------------------------------------!
 !--------- third-party requests ------------!
 !-------------------------------------------!
