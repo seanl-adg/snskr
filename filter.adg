@@ -32,6 +32,7 @@
 !
 ! 'Social network' is more commonly refered in Korea as 'sns'
 !
+###bottomsns
 ##.sns_facebook
 ##.sns_kakao
 ##.sns_share_area
