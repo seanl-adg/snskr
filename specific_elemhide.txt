@@ -8,3 +8,4 @@ news.naver.com###spiLayer
 wikitree.co.kr##.v_sns
 sedaily.com##.news_sns
 insight.co.kr##.fixedhead-share
+zdnet.co.kr##ul.sub_view_tit4.clfx
