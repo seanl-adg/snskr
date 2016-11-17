@@ -12,13 +12,17 @@
 ~story.kakao.com###kakaostory-follow-button
 ~story.kakao.com###kakaostory-share-button
 ~story.kakao.com##a[href^="https://story.kakao.com/s/share?url="]
+~story.kakao.com##a[href^="https://story.kakao.com/share?url="]
 ###kakao-link-btn
 !
 !------ Naver ------------
-##a[href^="http://line.me/R/msg/text/?"]
-~band.us##a[onclick^="window.open('http://www.band.us/plugin/share?"]
 ~blog.naver.com##a[onclick^="window.open('http://blog.naver.com/openapi/share?url="]
 ~blog.naver.com##a[onclick^="javascript:window.open('http://share.naver.com/web/shareView.nhn?"]
+!------ Line -------------
+##a[href^="http://line.me/R/msg/text/?"]
+!------ Band -------------
+~band.us##a[onclick^="window.open('http://www.band.us/plugin/share?"]
+~band.us##a[href^="http://www.band.us/plugin/share?"]
 !
 !-------------------------------------------!
 !------------ By common plugins ------------!
@@ -35,6 +39,7 @@
 ###bottomsns
 ##.sns_facebook
 ##.sns_kakao
+##.sns_list
 ##.sns_share_area
 ##.sns_twit
 !-------------------------------------------!
