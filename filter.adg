@@ -55,10 +55,15 @@
 !-------------------------------------------!
 !------------ specific_elemhide ------------!
 !-------------------------------------------!
+m.kmib.co.kr##.article_sns
 m.ohmynews.com##.app_move_box
 m.sportschosun.com##.sns1
+m.tf.co.kr##li[class^="sBtn_"]:not(.sBtn_reply)
 m.todayhumor.co.kr###linkButtonsContainer
 m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
+news.kmib.co.kr##.btn_google
+news.kmib.co.kr##.btn_tw
+news.kmib.co.kr##.b_sns
 news.naver.com###spiLayer
 news.tf.co.kr###SUDA_SHARE_BOX
 news.tf.co.kr##.subSnsBtn
@@ -68,6 +73,10 @@ wikitree.co.kr##.v_sns
 sedaily.com##.news_sns
 insight.co.kr##.fixedhead-share
 zdnet.co.kr##ul.sub_view_tit4.clfx
+!-------------------------------------------!
+!------------ specific_cssfix --------------!
+!-------------------------------------------!
+m.tf.co.kr#$#li.sBtn_reply { float: initial!important; display: inline-block!important; }
 !-------------------------------------------!
 !--------- third-party requests ------------!
 !-------------------------------------------!
