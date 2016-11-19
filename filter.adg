@@ -55,6 +55,8 @@
 !-------------------------------------------!
 !------------ specific_elemhide ------------!
 !-------------------------------------------!
+dailian.co.kr##.view_title_sub_sns
+m.dailian.co.kr##.responsive_col1 > .h3_area:nth-child(3)
 m.kmib.co.kr##.article_sns
 m.ohmynews.com##.app_move_box
 m.sportschosun.com##.sns1
@@ -84,10 +86,9 @@ m.tf.co.kr#$#li.sBtn_reply { float: initial!important; display: inline-block!imp
 ! third-party request used to load social widgets
 !
 !------ Kakaostory -------
-||developers.kakao.com/sdk/js/kakao.min.js^$third-party,domain=~kakao.com
+||developers.kakao.com/sdk/js/kakao.min.js^$third-party,domain=~daum.net|~kakao.com
 ||story.kakao.com/s/follow?$third-party
 !------ Naver share ------
 ||share.naver.net/js/naver_sharebutton.js^$third-party
 !------ Naver band -------
 ||developers.band.us/js/share/band-button.js^$third-party
-
