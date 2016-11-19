@@ -1,10 +1,13 @@
 !-------------------------------------------!
 !------------ specific_elemhide ------------!
 !-------------------------------------------!
+m.ohmynews.com##.app_move_box
 m.sportschosun.com##.sns1
 m.todayhumor.co.kr###linkButtonsContainer
 m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
 news.naver.com###spiLayer
+ohmynews.com##.social_bind
+ohmynews.com##.newsinfo_area
 wikitree.co.kr##.v_sns
 sedaily.com##.news_sns
 insight.co.kr##.fixedhead-share

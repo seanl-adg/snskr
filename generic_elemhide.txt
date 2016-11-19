@@ -39,5 +39,6 @@
 ##.sns_facebook
 ##.sns_kakao
 ##.sns_list
+##.sns_scroll
 ##.sns_share_area
 ##.sns_twit
