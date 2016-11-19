@@ -3,6 +3,7 @@
 !-------------------------------------------!
 m.ohmynews.com##.app_move_box
 m.sportschosun.com##.sns1
+m.tf.co.kr##li[class^="sBtn_"]:not(.sBtn_reply)
 m.todayhumor.co.kr###linkButtonsContainer
 m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
 news.naver.com###spiLayer
@@ -14,3 +15,7 @@ wikitree.co.kr##.v_sns
 sedaily.com##.news_sns
 insight.co.kr##.fixedhead-share
 zdnet.co.kr##ul.sub_view_tit4.clfx
+!-------------------------------------------!
+!------------ specific_cssfix --------------!
+!-------------------------------------------!
+m.tf.co.kr#$#li.sBtn_reply { float: initial!important; display: inline-block!important; }
