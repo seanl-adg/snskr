@@ -6,6 +6,8 @@ m.sportschosun.com##.sns1
 m.todayhumor.co.kr###linkButtonsContainer
 m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
 news.naver.com###spiLayer
+news.tf.co.kr###SUDA_SHARE_BOX
+news.tf.co.kr##.subSnsBtn
 ohmynews.com##.social_bind
 ohmynews.com##.newsinfo_area
 wikitree.co.kr##.v_sns
