@@ -1,6 +1,8 @@
 !-------------------------------------------!
 !------------ specific_elemhide ------------!
 !-------------------------------------------!
+dailian.co.kr##.view_title_sub_sns
+m.dailian.co.kr##.responsive_col1 > .h3_area:nth-child(3)
 m.kmib.co.kr##.article_sns
 m.ohmynews.com##.app_move_box
 m.sportschosun.com##.sns1
