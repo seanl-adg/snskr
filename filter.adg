@@ -45,6 +45,7 @@
 ##.sns_scroll
 ##.sns_share_area
 ##.sns_twit
+##.sns_view
 !-------------------------------------------!
 !------------ generic_url ------------------!
 !-------------------------------------------!
@@ -71,13 +72,15 @@ news.tf.co.kr###SUDA_SHARE_BOX
 news.tf.co.kr##.subSnsBtn
 ohmynews.com##.social_bind
 ohmynews.com##.newsinfo_area
-wikitree.co.kr##.v_sns
 sedaily.com##.news_sns
+star.mt.co.kr##.lst_sc
+wikitree.co.kr##.v_sns
 insight.co.kr##.fixedhead-share
 zdnet.co.kr##ul.sub_view_tit4.clfx
 !-------------------------------------------!
 !------------ specific_cssfix --------------!
 !-------------------------------------------!
+m.media.daum.net,m.sports.media.daum.net#$#.wrap_share { min-height: auto!important; }
 m.tf.co.kr#$#li.sBtn_reply { float: initial!important; display: inline-block!important; }
 !-------------------------------------------!
 !--------- third-party requests ------------!

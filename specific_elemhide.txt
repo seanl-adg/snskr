@@ -17,8 +17,9 @@ news.tf.co.kr###SUDA_SHARE_BOX
 news.tf.co.kr##.subSnsBtn
 ohmynews.com##.social_bind
 ohmynews.com##.newsinfo_area
-wikitree.co.kr##.v_sns
 sedaily.com##.news_sns
+star.mt.co.kr##.lst_sc
+wikitree.co.kr##.v_sns
 insight.co.kr##.fixedhead-share
 zdnet.co.kr##ul.sub_view_tit4.clfx
 !-------------------------------------------!
