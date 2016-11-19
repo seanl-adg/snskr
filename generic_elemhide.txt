@@ -42,3 +42,4 @@
 ##.sns_scroll
 ##.sns_share_area
 ##.sns_twit
+##.sns_view

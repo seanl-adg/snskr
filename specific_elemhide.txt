@@ -24,4 +24,5 @@ zdnet.co.kr##ul.sub_view_tit4.clfx
 !-------------------------------------------!
 !------------ specific_cssfix --------------!
 !-------------------------------------------!
+m.media.daum.net,m.sports.media.daum.net#$#.wrap_share { min-height: auto!important; }
 m.tf.co.kr#$#li.sBtn_reply { float: initial!important; display: inline-block!important; }
