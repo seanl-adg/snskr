@@ -1,14 +1,21 @@
 !-------------------------------------------!
 !------------ specific_elemhide ------------!
 !-------------------------------------------!
+blog.naver.com###spiLayer1
+biz.chosun.com###article_sns2014
 dailian.co.kr##.view_title_sub_sns
+hankookilbo.com##.snsGroup > ul > li[sipujs]:not([sipujs="URL-SHARE"])
+insight.co.kr##.fixedhead-share
+m.chosun.com##.sns_area
 m.dailian.co.kr##.responsive_col1 > .h3_area:nth-child(3)
 m.kmib.co.kr##.article_sns
 m.ohmynews.com##.app_move_box
+m.sisain.co.kr##.m_a_sns
 m.sportschosun.com##.sns1
 m.tf.co.kr##li[class^="sBtn_"]:not(.sBtn_reply)
 m.todayhumor.co.kr###linkButtonsContainer
 m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
+news.chosun.com##.left_aside_sns > li[class]:not(.cmt)
 news.kmib.co.kr##.btn_google
 news.kmib.co.kr##.btn_tw
 news.kmib.co.kr##.b_sns
@@ -20,7 +27,7 @@ ohmynews.com##.newsinfo_area
 sedaily.com##.news_sns
 star.mt.co.kr##.lst_sc
 wikitree.co.kr##.v_sns
-insight.co.kr##.fixedhead-share
+xetown.com##.to_sns
 zdnet.co.kr##ul.sub_view_tit4.clfx
 !-------------------------------------------!
 !------------ specific_cssfix --------------!

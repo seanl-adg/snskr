@@ -5,7 +5,7 @@
 ! third-party request used to load social widgets
 !
 !------ Kakaostory -------
-||developers.kakao.com/sdk/js/kakao.min.js^$third-party,domain=~daum.net|~kakao.com
+||developers.kakao.com/sdk/js/kakao.min.js^$domain=~daum.net|~kakao.com|news1.kr
 ||story.kakao.com/s/follow?$third-party
 !------ Naver share ------
 ||share.naver.net/js/naver_sharebutton.js^$third-party

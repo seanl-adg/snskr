@@ -14,6 +14,7 @@
 ###share_kakaostory
 !
 !------ Naver ------------
+~blog.naver.com##a[href^="http://blog.naver.com/openapi/share?url="]
 ~blog.naver.com##a[onclick^="window.open('http://blog.naver.com/openapi/share?url="]
 ~blog.naver.com##a[onclick^="javascript:window.open('http://share.naver.com/web/shareView.nhn?"]
 !------ Line -------------
