@@ -97,9 +97,13 @@ m.tf.co.kr#$#li.sBtn_reply { float: initial!important; display: inline-block!imp
 ! third-party request used to load social widgets
 !
 !------ Kakaostory -------
-||developers.kakao.com/sdk/js/kakao.min.js^$domain=~daum.net|~kakao.com|~news1.kr
 ||story.kakao.com/s/follow?$third-party
 !------ Naver share ------
 ||share.naver.net/js/naver_sharebutton.js^$third-party
 !------ Naver band -------
 ||developers.band.us/js/share/band-button.js^$third-party
+!------ Naver line -------
+||media.line.me/js/line-button.js^$third-party
+!
+!------ Daum view publish -------
+||cp.news.search.daum.net/api/publish.json^
