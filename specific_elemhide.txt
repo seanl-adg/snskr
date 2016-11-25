@@ -15,6 +15,7 @@ m.sportschosun.com##.sns1
 m.tf.co.kr##li[class^="sBtn_"]:not(.sBtn_reply)
 m.todayhumor.co.kr###linkButtonsContainer
 m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
+mnews.sbs.co.kr##.ec_icshare_ca
 news.chosun.com##.left_aside_sns > li[class]:not(.cmt)
 news.kmib.co.kr##.btn_google
 news.kmib.co.kr##.btn_tw
