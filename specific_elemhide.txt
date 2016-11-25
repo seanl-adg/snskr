@@ -12,6 +12,7 @@ m.chosun.com##.sns_area
 m.dailian.co.kr##.responsive_col1 > .h3_area:nth-child(3)
 m.kmib.co.kr##.article_sns
 m.ohmynews.com##.app_move_box
+m.pann.nate.com##.social_area
 m.sisain.co.kr##.m_a_sns
 m.sportschosun.com##.sns1
 m.tf.co.kr##li[class^="sBtn_"]:not(.sBtn_reply)
@@ -27,6 +28,7 @@ news.tf.co.kr###SUDA_SHARE_BOX
 news.tf.co.kr##.subSnsBtn
 ohmynews.com##.social_bind
 ohmynews.com##.newsinfo_area
+pann.nate.com##.social_send
 sedaily.com##.news_sns
 star.mt.co.kr##.lst_sc
 wikitree.co.kr##.v_sns
