@@ -59,6 +59,7 @@
 !-------------------------------------------!
 blog.naver.com###spiLayer1
 biz.chosun.com###article_sns2014
+cafe.daum.net##.sns_comm
 dailian.co.kr##.view_title_sub_sns
 hankookilbo.com##.snsGroup > ul > li[sipujs]:not([sipujs="URL-SHARE"])
 imnews.imbc.com##div[class="share fixed"]
