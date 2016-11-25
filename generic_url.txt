@@ -5,3 +5,4 @@
 /btn_sns_$image
 /icon_kakao.
 /send_kakaotalk.
+/sns/btn_$image
