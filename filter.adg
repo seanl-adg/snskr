@@ -77,6 +77,7 @@ m.sisain.co.kr##.m_a_sns
 m.sportschosun.com##.sns1
 m.tf.co.kr##li[class^="sBtn_"]:not(.sBtn_reply)
 m.todayhumor.co.kr###linkButtonsContainer
+m.viva100.com##.bm_sns
 m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
 mnews.sbs.co.kr##.ec_icshare_ca
 news.chosun.com##.left_aside_sns > li[class]:not(.cmt)
@@ -92,6 +93,7 @@ pann.nate.com##.social_send
 sedaily.com##.news_sns
 sisapress.com##div[class^="newscontSns"]
 star.mt.co.kr##.lst_sc
+viva100.com##.left_top_sns
 wikitree.co.kr##.v_sns
 xetown.com##.to_sns
 zdnet.co.kr##ul.sub_view_tit4.clfx
