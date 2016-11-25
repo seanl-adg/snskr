@@ -86,6 +86,7 @@ ohmynews.com##.social_bind
 ohmynews.com##.newsinfo_area
 pann.nate.com##.social_send
 sedaily.com##.news_sns
+sisapress.com##div[class^="newscontSns"]
 star.mt.co.kr##.lst_sc
 wikitree.co.kr##.v_sns
 xetown.com##.to_sns
