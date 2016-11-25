@@ -61,6 +61,7 @@ blog.naver.com###spiLayer1
 biz.chosun.com###article_sns2014
 dailian.co.kr##.view_title_sub_sns
 hankookilbo.com##.snsGroup > ul > li[sipujs]:not([sipujs="URL-SHARE"])
+imnews.imbc.com##div[class="share fixed"]
 insight.co.kr##.fixedhead-share
 m.chosun.com##.sns_area
 m.dailian.co.kr##.responsive_col1 > .h3_area:nth-child(3)
