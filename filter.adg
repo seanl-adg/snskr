@@ -58,7 +58,7 @@
 !-------------------------------------------!
 !------------ specific_elemhide ------------!
 !-------------------------------------------!
-blog.naver.com###spiLayer1
+!blog.naver.com###spiLayer1
 biz.chosun.com###article_sns2014
 cafe.daum.net##.sns_comm
 dailian.co.kr##.view_title_sub_sns
@@ -80,11 +80,12 @@ m.todayhumor.co.kr###linkButtonsContainer
 m.viva100.com##.bm_sns
 m.wikitree.co.kr##.nav-share > div[style="float:left;width:25%;height:100%"]:not([onclick^="layer_"])
 mnews.sbs.co.kr##.ec_icshare_ca
+naver.com##.naver-splugin
 news.chosun.com##.left_aside_sns > li[class]:not(.cmt)
 news.kmib.co.kr##.btn_google
 news.kmib.co.kr##.btn_tw
 news.kmib.co.kr##.b_sns
-news.naver.com###spiLayer
+!news.naver.com###spiLayer
 news.tf.co.kr###SUDA_SHARE_BOX
 news.tf.co.kr##.subSnsBtn
 ohmynews.com##.social_bind
