@@ -65,6 +65,7 @@ dailian.co.kr##.view_title_sub_sns
 ekn.kr##.util2 > ul > li.tit
 hankookilbo.com##.snsGroup > ul > li[sipujs]:not([sipujs="URL-SHARE"])
 health.chosun.com##.left_aside_sns > li:not(.cmt)
+hubnews.co.kr##.view_share
 imnews.imbc.com##div[class="share fixed"]
 insight.co.kr##.fixedhead-share
 m.chosun.com##.sns_area
