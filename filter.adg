@@ -32,6 +32,8 @@
 !
 !------ tistory ----------
 ##.tt-plugin.tt-share-entry-with-sns
+!------ XpressEngine -----
+##.to_sns.rd_nav
 !-------------------------------------------!
 !------------ By common names --------------!
 !-------------------------------------------!
@@ -110,7 +112,6 @@ sisapress.com##div[class^="newscontSns"]
 star.mt.co.kr##.lst_sc
 viva100.com##.left_top_sns
 wikitree.co.kr##.v_sns
-xetown.com##.to_sns
 zdnet.co.kr##ul.sub_view_tit4.clfx
 !-------------------------------------------!
 !------------ specific_cssfix --------------!
