@@ -50,6 +50,7 @@
 ##.sns_share_area
 ##.sns_twit
 ##.sns_view
+##.view_sns
 !-------------------------------------------!
 !------------ generic_url ------------------!
 !-------------------------------------------!
@@ -113,6 +114,7 @@ newstomato.com##.rnsc_sns
 ohmynews.com##.social_bind
 ohmynews.com##.newsinfo_area
 pann.nate.com##.social_send
+samsungsvc.co.kr##a.sns
 sedaily.com##.news_sns
 sisapress.com##div[class^="newscontSns"]
 sportsseoul.com,sportsseoul.co.kr##.left_socialWap

@@ -47,3 +47,4 @@
 ##.sns_share_area
 ##.sns_twit
 ##.sns_view
+##.view_sns
