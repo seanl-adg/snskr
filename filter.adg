@@ -15,6 +15,7 @@
 ~story.kakao.com##a[href^="https://story.kakao.com/share?url="]
 ###kakao-link-btn
 ###share_kakaostory
+##.share-kakaotalk
 !
 !------ Naver ------------
 ~blog.naver.com##a[href^="http://blog.naver.com/openapi/share?url="]
