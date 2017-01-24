@@ -14,6 +14,7 @@
 ~story.kakao.com##a[href^="https://story.kakao.com/s/share?url="]
 ~story.kakao.com##a[href^="https://story.kakao.com/share?url="]
 ###kakao-link-btn
+###kakao-story-btn
 ###share_kakaostory
 ##.share-kakaotalk
 !
