@@ -29,6 +29,7 @@ m.sisain.co.kr##.m_a_sns
 m.sportschosun.com##.sns1
 m.sportsseoul.com##.bottom_iconMenu
 m.sportsseoul.com##.iconMenu_wrap
+m.starjn.com##.m_sns
 m.tf.co.kr##li[class^="sBtn_"]:not(.sBtn_reply)
 m.todayhumor.co.kr###linkButtonsContainer
 m.viva100.com##.bm_sns
