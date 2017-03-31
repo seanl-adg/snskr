@@ -3,6 +3,10 @@
 !-------------------------------------------!
 !blog.naver.com###spiLayer1
 biz.chosun.com###article_sns2014
+boannews.com###news_util03
+boannews.com###news_util04
+boannews.com###news_util07
+boannews.com###news_util08
 cafe.daum.net##.sns_comm
 dailian.co.kr##.view_title_sub_sns
 edaily.co.kr##.leftSNS
