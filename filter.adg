@@ -45,6 +45,7 @@
 ###bottomsns
 ##.article_sns
 ##.share_sns
+##.sns-share-icon
 ##.sns_button
 ##.sns_facebook
 ##.sns_kakao
