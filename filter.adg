@@ -43,6 +43,7 @@
 ! 'Social network' is more commonly refered in Korea as 'sns'
 !
 ###bottomsns
+###news_sns
 ##.article_sns
 ##.share_sns
 ##.sns-share-icon
